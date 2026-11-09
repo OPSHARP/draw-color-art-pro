@@ -50,6 +50,8 @@ mapping.txt
 # Internal Documents & Marketing Raw Files
 Draw_Color_Art_Pro_PRD.txt
 PicArt icon/
+privacy.md
+terms.md
 
 # Android Studio build output
 /android/app/debug

@@ -27,7 +27,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Riverpod](https://img.shields.io/badge/State_Management-Riverpod_2.6-blueviolet?style=for-the-badge)](https://riverpod.dev)
 [![Display](https://img.shields.io/badge/High_Refresh_Rate-120Hz%20%7C%20144Hz-brightgreen?style=for-the-badge)](https://developer.android.com)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25_Local--First-success?style=for-the-badge)](privacy.md)
+![Privacy](https://img.shields.io/badge/Privacy-100%25_Local--First-success?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
 
 <p align="center">
@@ -159,8 +159,8 @@ For public safety, release signing keys and live AdMob keys are excluded from th
 
 ## 🛡️ Privacy & Artist Freedom
 
-- **100% Artist Ownership**: You retain exclusive copyright over every artwork you create. You are free to monetize, sell physical prints, produce merchandise, or use your creations in client projects with zero royalties. Read our full [Terms of Service](terms.md).
-- **Zero Telemetry**: We do not track you, profile your usage, or upload your artwork to cloud servers. All projects are saved locally on your device. Read our [Privacy Policy](privacy.md).
+- **100% Artist Ownership**: You retain exclusive copyright over every artwork you create. You are free to monetize, sell physical prints, produce merchandise, or use your creations in client projects with zero royalties.
+- **Zero Telemetry**: We do not track you, profile your usage, or upload your artwork to cloud servers. All projects are saved locally on your device.
 - **Google Play Compliance**: Uses the modern Android System Photo Picker (`MediaStore.ACTION_PICK_IMAGES`) with zero broad storage permission requests.
 
 ---
