@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="android/app/src/main/res/playstore-icon.png" width="110" height="110" alt="Draw Color Art Pro Logo" style="border-radius: 24px;" />
+
+  <br/><br/>
+
 # 🎨 Draw Color Art Pro
 ### *Studio-Grade Mobile Digital Art, Sketching & Coloring Suite*
 
