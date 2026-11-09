@@ -7,6 +7,22 @@
   <img src="docs/screenshots/banner.png" alt="Draw Color Art Pro Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
+<!-- 3D Motion Graphic Play Store Button -->
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.drawcolor.artpro" target="_blank" rel="noopener noreferrer">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="72" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.drawcolor.artpro" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google_Play-Live_On_Store-01875F?style=for-the-badge&logo=googleplay&logoColor=white" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/OPSHARP/draw-color-art-pro/releases/latest" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Direct_APK-Download_v1.0.2-6C5CE7?style=for-the-badge&logo=android&logoColor=white" height="32" />
+  </a>
+</p>
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.13+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Riverpod](https://img.shields.io/badge/State_Management-Riverpod_2.6-blueviolet?style=for-the-badge)](https://riverpod.dev)
@@ -151,10 +167,10 @@ For public safety, release signing keys and live AdMob keys are excluded from th
 
 ## 👨‍💻 Author & Support
 
-- **Developer**: Sachin Raghav
-- **Email**: [sachinraghav9090@gmail.com](mailto:sachinraghav9090@gmail.com)
-- **Phone**: +91 9557754705
+- **Developer**: SHARP OP
+- **Email**: [drillmovies@gmail.com](mailto:drillmovies@gmail.com)
 - **GitHub**: [@OPSHARP](https://github.com/OPSHARP)
+- **Google Play**: [Draw Color Art Pro on Play Store](https://play.google.com/store/apps/details?id=com.drawcolor.artpro)
 
 ---
 

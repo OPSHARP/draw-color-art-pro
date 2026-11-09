@@ -6,7 +6,7 @@ Application Version: 1.0.2 (Build 3)
 
 1. INTRODUCTION AND ACCEPTANCE OF TERMS
 
-Welcome to Draw Color Art Pro. These Terms of Service (referred to as these Terms or this Agreement) constitute a legally binding agreement between you (the user, whether personally or on behalf of an entity) and Sachin Raghav (the independent developer, owner, and publisher of Draw Color Art Pro, referred to as the Developer, We, Us, or Our).
+Welcome to Draw Color Art Pro. These Terms of Service (referred to as these Terms or this Agreement) constitute a legally binding agreement between you (the user, whether personally or on behalf of an entity) and SHARP OP (the independent developer, owner, and publisher of Draw Color Art Pro, referred to as the Developer, We, Us, or Our).
 
 This Agreement governs your access to and use of the Draw Color Art Pro mobile application, including any future updates, patches, downloadable assets, features, and related services (collectively, the Application or the App).
 
@@ -48,7 +48,7 @@ Draw Color Art Pro provides tools enabling you to import background images, phot
 4. APPLICATION INTELLECTUAL PROPERTY AND ASSET LICENSING
 
 4.1 Developer Ownership
-While you own the artwork you create, Sachin Raghav retains all right, title, and interest in and to Draw Color Art Pro itself. This includes, without limitation, the application source code, compiled binaries, software architecture, user interface designs, custom icons, procedural algorithmic generation scripts, QuickShape detection algorithms, brush rendering shaders, ASMR audio sound synthesis engines, logos, and promotional graphics (collectively, Application IP).
+While you own the artwork you create, SHARP OP retains all right, title, and interest in and to Draw Color Art Pro itself. This includes, without limitation, the application source code, compiled binaries, software architecture, user interface designs, custom icons, procedural algorithmic generation scripts, QuickShape detection algorithms, brush rendering shaders, ASMR audio sound synthesis engines, logos, and promotional graphics (collectively, Application IP).
 
 4.2 Limited License Granted to You
 Subject to your continued compliance with these Terms, the Developer grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the Application on compatible mobile devices that you own or control, strictly for personal, educational, and creative purposes.
@@ -118,7 +118,7 @@ You acknowledge and understand that performing any of the following actions will
 - Performing a device factory reset or operating system reinstallation.
 - Manually clearing Application Storage or Application Data via your operating system settings.
 - Device loss, theft, hardware corruption, or severe physical damage.
-Under no circumstances shall Sachin Raghav be held liable for any loss of artwork, projects, or creative data resulting from device resets, uninstalls, hardware malfunctions, or failure to maintain external backups.
+Under no circumstances shall SHARP OP be held liable for any loss of artwork, projects, or creative data resulting from device resets, uninstalls, hardware malfunctions, or failure to maintain external backups.
 
 8. ACCEPTABLE USE AND PROHIBITED CONDUCT
 
@@ -154,7 +154,7 @@ The Developer reserves the right to modify, enhance, update, suspend, or discont
 To the maximum extent permitted under applicable law:
 Draw Color Art Pro is provided strictly on an AS IS and AS AVAILABLE basis, with all faults and without warranties of any kind, whether express, implied, statutory, or otherwise.
 
-Sachin Raghav explicitly disclaims all warranties, including, without limitation:
+SHARP OP explicitly disclaims all warranties, including, without limitation:
 - Any implied warranties of merchantability, fitness for a particular purpose, title, quiet enjoyment, and non-infringement.
 - Any warranties that the Application will meet your artistic, technical, or commercial requirements.
 - Any warranties that operation of the Application will be uninterrupted, error-free, completely secure, or free from bugs, glitches, lag, rendering artifacts, or unexpected crashes.
@@ -164,7 +164,7 @@ Because mobile devices vary widely in processing power, GPU capabilities, RAM, a
 
 12. LIMITATION OF LIABILITY
 
-To the fullest extent permitted by applicable law, in no event shall Sachin Raghav, the Developer, or any affiliates, contributors, or agents be liable to you or to any third party for any:
+To the fullest extent permitted by applicable law, in no event shall SHARP OP, the Developer, or any affiliates, contributors, or agents be liable to you or to any third party for any:
 - Direct, indirect, incidental, consequential, special, punitive, or exemplary damages whatsoever.
 - Loss of artwork, drawings, sketches, layer files, or digital data.
 - Loss of profits, commercial revenue, business opportunities, goodwill, or artistic commission earnings.
@@ -176,7 +176,7 @@ In jurisdictions where the exclusion or limitation of liability for consequentia
 
 13. INDEMNIFICATION
 
-You agree to defend, indemnify, and hold harmless Sachin Raghav from and against any and all claims, liabilities, damages, losses, demands, costs, penalties, and expenses (including reasonable legal and attorney fees) arising out of or in any way connected with:
+You agree to defend, indemnify, and hold harmless SHARP OP from and against any and all claims, liabilities, damages, losses, demands, costs, penalties, and expenses (including reasonable legal and attorney fees) arising out of or in any way connected with:
 - Your access to or use of Draw Color Art Pro.
 - Any User Artwork you create, export, distribute, publish, or sell.
 - Any third-party intellectual property or copyright infringement claim arising from reference images, photos, fonts, or assets imported into the Application by you.
@@ -200,7 +200,7 @@ If a dispute cannot be resolved through informal negotiations, the dispute shall
 If any provision, clause, or paragraph of these Terms is determined by a court of competent jurisdiction to be unlawful, invalid, or unenforceable, that provision shall be enforced to the maximum extent permissible, and the remaining provisions of these Terms shall remain in full force and effect.
 
 15.2 Entire Agreement
-These Terms of Service, together with the Draw Color Art Pro Privacy Policy, constitute the complete, entire, and exclusive agreement between you and Sachin Raghav regarding the Application, superseding all prior oral or written agreements, proposals, communications, or understandings.
+These Terms of Service, together with the Draw Color Art Pro Privacy Policy, constitute the complete, entire, and exclusive agreement between you and SHARP OP regarding the Application, superseding all prior oral or written agreements, proposals, communications, or understandings.
 
 15.3 No Waiver
 The failure or delay of the Developer to enforce any right or provision of these Terms shall not operate as a waiver of such right or provision in that or any other instance.
@@ -215,11 +215,10 @@ Your continued access to or use of Draw Color Art Pro following the posting of r
 
 If you have any questions, legal inquiries, feedback, commercial licensing questions, or support requests regarding Draw Color Art Pro or these Terms of Service, please reach out to the Developer directly using the following contact information:
 
-Developer Name: Sachin Raghav
+Developer Name: SHARP OP
 Application: Draw Color Art Pro
 Country of Operation: India
-Direct Phone Contact: +91 9557754705
-Official Email Address: sachinraghav9090@gmail.com
+Official Email Address: drillmovies@gmail.com
 
 We are committed to supporting creators, listening to user feedback, and continuously improving Draw Color Art Pro for the global artistic community. Thank you for creating with Draw Color Art Pro.
 

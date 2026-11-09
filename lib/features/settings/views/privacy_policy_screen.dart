@@ -207,7 +207,10 @@ class PrivacyPolicyScreen extends StatelessWidget {
             title: '10. Policy Updates & Contact',
             content:
                 'We may update this Privacy Policy from time to time to reflect new app features, updated SDKs, '
-                'or evolving legal regulations. Any revisions will be reflected in the application with an updated effective date.',
+                'or evolving legal regulations.\n\n'
+                '• Developer: SHARP OP\n'
+                '• Email: drillmovies@gmail.com\n'
+                '• Location: India',
           ),
 
           // ── Footer ──

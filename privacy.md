@@ -3,7 +3,7 @@ Privacy Policy for Draw Color Art Pro
 Last Updated: September 12, 2026
 
 1. Introduction and Overview
-Draw Color Art Pro is developed by Sachin Raghav as an advanced mobile drawing, sketching, painting, and digital coloring application. This Privacy Policy outlines our uncompromising commitment to your privacy and details how our application handles your information.
+Draw Color Art Pro is developed by SHARP OP as an advanced mobile drawing, sketching, painting, and digital coloring application. This Privacy Policy outlines our uncompromising commitment to your privacy and details how our application handles your information.
 
 Our guiding principle is simple: your creative work belongs solely to you, and your personal privacy is paramount. Draw Color Art Pro is built with a strict local-first, privacy-by-design philosophy. We do not track you, we do not profile your usage, and we do not collect, sell, or rent your personal information.
 
@@ -52,8 +52,7 @@ We may update this Privacy Policy from time to time to reflect new features or l
 10. Developer Contact Information
 If you have any questions, suggestions, or concerns regarding this Privacy Policy or Draw Color Art Pro, please contact the developer directly:
 
-Developer: Sachin Raghav
-Phone: +91 9557754705
-Email: sachinraghav9090@gmail.com
+Developer: SHARP OP
+Email: drillmovies@gmail.com
 Application: Draw Color Art Pro
 Location: India

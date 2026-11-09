@@ -162,9 +162,8 @@ class TermsOfServiceScreen extends StatelessWidget {
             title: '8. Developer Contact & Inquiries',
             content:
                 'For inquiries, artist rights questions, commercial licensing, or assistance:\n\n'
-                '• Developer: Sachin Raghav\n'
-                '• Phone: +91 9557754705\n'
-                '• Email: sachinraghav9090@gmail.com\n'
+                '• Developer: SHARP OP\n'
+                '• Email: drillmovies@gmail.com\n'
                 '• Location: India',
           ),
 
