@@ -1,0 +1,67 @@
+name: draw_color_art_pro
+description: "Draw Color Art Pro — Advanced mobile drawing, coloring, sketching, illustration, and digital-art application."
+publish_to: 'none'
+version: 1.0.2+3
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_riverpod: ^2.6.1
+  riverpod_annotation: ^2.6.1
+
+  # Navigation
+  go_router: ^14.8.1
+
+  # Storage & Persistence
+  path_provider: ^2.1.5
+  shared_preferences: ^2.5.3
+
+  # Utilities
+  uuid: ^4.5.1
+  equatable: ^2.0.7
+  collection: ^1.19.1
+  intl: ^0.19.0
+
+  # Image Processing & Export
+  image: ^4.5.3
+
+  # Sharing
+  share_plus: ^10.1.4
+
+  # Typography
+  google_fonts: ^6.2.1
+
+  # Icons & Media
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.8.1
+  camera: ^0.12.1
+  image_picker: ^1.2.3
+  image_picker_android: ^0.8.13+22
+  image_picker_platform_interface: ^2.10.1
+
+  # Networking & Image Search
+  http: ^1.2.1
+  cached_network_image: ^3.4.1
+  google_mobile_ads: ^9.1.0
+  in_app_update: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  riverpod_generator: ^2.6.3
+  build_runner: ^2.4.14
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/brushes/
+    - assets/templates/
+    - assets/icons/
+    - assets/fonts/

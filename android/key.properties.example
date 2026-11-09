@@ -1,0 +1,7 @@
+# Example release signing configuration.
+# Copy this file to 'key.properties' and fill in your actual keystore details.
+# NEVER commit key.properties to version control.
+storePassword=your_keystore_password
+keyPassword=your_key_password
+keyAlias=upload
+storeFile=/path/to/your/upload-keystore.jks
