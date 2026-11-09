@@ -156,6 +156,18 @@ class TermsOfServiceScreen extends StatelessWidget {
                 'the application, including data loss resulting from device malfunction.',
           ),
 
+          // ── Section 8: Developer Contact & Inquiries ──
+          const _TermsCard(
+            icon: Icons.contact_support_rounded,
+            title: '8. Developer Contact & Inquiries',
+            content:
+                'For inquiries, artist rights questions, commercial licensing, or assistance:\n\n'
+                '• Developer: Sachin Raghav\n'
+                '• Phone: +91 9557754705\n'
+                '• Email: sachinraghav9090@gmail.com\n'
+                '• Location: India',
+          ),
+
           // ── Footer ──
           Padding(
             padding: const EdgeInsets.symmetric(vertical: AppSpacing.lg),
